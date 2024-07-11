@@ -1,0 +1,12 @@
+[
+    {"Product": "Product A", "Sales": 150, "Profit": 20},
+    {"Product": "Product B", "Sales": 200, "Profit": 30},
+    {"Product": "Product C", "Sales": 300, "Profit": 40},
+    {"Product": "Product D", "Sales": 250, "Profit": 25},
+    {"Product": "Product E", "Sales": 100, "Profit": 10},
+    {"Product": "Product F", "Sales": 180, "Profit": 22},
+    {"Product": "Product G", "Sales": 230, "Profit": 35},
+    {"Product": "Product H", "Sales": 170, "Profit": 28},
+    {"Product": "Product I", "Sales": 210, "Profit": 33},
+    {"Product": "Product J", "Sales": 260, "Profit": 37}
+]
